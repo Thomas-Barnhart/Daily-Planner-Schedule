@@ -22,7 +22,7 @@ WHEN I refresh the page <br />
 THEN the saved events persist <br />
 
 # Mock-up GIF of Site
-![Gif of the site working from Clone](assets/images/05-third-party-apis-homework-demo.gif)
+![Gif of the site working from Clone](/Assets/Images/05-third-party-apis-homework-demo.gif)
 
 # Link to Live Site
 https://thomas-barnhart.github.io/Daily-Planner-Schedule/
